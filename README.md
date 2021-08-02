@@ -1,5 +1,5 @@
 # Result-Portal-Web-Service
-A simple web application created using Spring MVC Hibernate Maven that performs CRUD Operations on User
+There are two applications first is the server part where there are POCO classes & Web Service which will respond to the client request. A user can view his/her result. And teacher can perform CRUD operations on students from Client Application.
 # Screenshots
 ## Web Service
 ![Web Services](images/1st.png)
